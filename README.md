@@ -1,7 +1,7 @@
 # AlipayRedPacketHackNet
 支付宝 AR 红包 破解教程
 
-# 注！：
+# 注！
 
 禁止用此方法做违法乱纪的事情
 
